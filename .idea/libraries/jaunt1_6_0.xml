@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jaunt1.6.0">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../Dependencies/jaunt1.6.0/jaunt1.6.0.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
